@@ -22,7 +22,7 @@ This game demonstrates fundamental mechanics such as player movement, collision 
 - Collision Detection with Clouds  **Bird_sc.cs:28**
 - Restart on Death  **Bird_sc.cs:53**
 
-<h4>İrem Aytaş 21350859018</h4>
+<h4>İrem Aytaş  21350859018</h4>
 
 - Cloud Movement Logic **Cloud_sc.cs:13**
 - Cloud Respawn on Exit **Cloud_sc.cs:18**
