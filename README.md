@@ -1,4 +1,4 @@
-# Wings-Weather
+# Wings & Weather
 A simple 2D game developed in Unity for the Game Programming Course midterm project. In this game, you control a bird that interacts with sunny and stormy clouds, gaining or losing lives accordingly. The goal is to survive for as long as possible by avoiding stormy clouds and collecting sunny clouds. <br>
 This game demonstrates fundamental mechanics such as player movement, collision detection, object spawning, and score tracking.
 <br>
